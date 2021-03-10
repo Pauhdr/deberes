@@ -2,7 +2,7 @@
 
 ## Video 1
 Descripcion del video
-<div><iframe width="100%" height="477" src="https://www.youtube.com/embed/C0zoI3RJ_fw" frameborder="0" rel="0" allow="encrypted-media" allowfullscreen>
+<div><iframe src="https://www.youtube.com/embed/C0zoI3RJ_fw" frameborder="0" rel="0" allow="encrypted-media" allowfullscreen>
 </iframe></div>
 
 
