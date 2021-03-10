@@ -3,7 +3,7 @@
 ![imagen 1](./fotos/foto1.jpg)
 <br>Descripcion de la foto
 
-## Bosque tropical
+## Bosque húmedo
 ![imagen 2](./fotos/foto2.jpg)
 <br>Descripcion de la foto
 
