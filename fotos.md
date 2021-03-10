@@ -27,8 +27,8 @@
 ![imagen 7](./fotos/foto7.jpg)
 <br>Descripcion de la foto
 
-## Foto 8
-![imagen 8](./fotos/foto8.jpeg)
+## Bosque invernal
+![imagen 8](./fotos/foto8.png)
 <br>Descripcion de la foto
 
 ## Lago
