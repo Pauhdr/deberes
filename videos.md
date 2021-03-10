@@ -2,12 +2,9 @@
 
 ## Video 1
 Descripcion del video
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/uHjFZVilTJE" frameborder="0" allowfullscreen="true">
-  </iframe>
-</figure>
-<!-- blank line -->
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uHjFZVilTJE" frameborder="0" allowfullscreen="true">
+</iframe>
+
 
 
 ## Video 2
