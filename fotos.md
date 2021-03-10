@@ -8,7 +8,7 @@
 <br>Descripcion de la foto
 
 ## Sabana
-![imagen 3](./fotos/foto3.jpg)
+![imagen 3](./fotos/foto3.jpeg)
 <br>Descripcion de la foto
 
 ## Paisaje desértico
