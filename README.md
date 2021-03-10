@@ -4,5 +4,5 @@
 [ver todos los proyectos >](trabajos.md)
 
 # Aficiones
-[ver todos mis fotos >](fotos.md)<br>
+[ver todas mis fotos >](fotos.md)<br>
 [ver todos mis videos >](videos.md)
