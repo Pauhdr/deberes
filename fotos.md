@@ -1,6 +1,6 @@
 # FOTOS DE XXX
 ## Montaña nevada
-![imagen 1](./fotos/foto1.jpg)
+![imagen 1](./fotos/foto1.jpg =200x)
 <br>Descripcion de la foto
 
 ## Bosque húmedo
