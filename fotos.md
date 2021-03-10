@@ -1,40 +1,40 @@
 # FOTOS DE XXX
-## Foto 1
+## Montaña nevada
 ![imagen 1](./fotos/foto1.jpg)
 <br>Descripcion de la foto
 
-## Foto 2
+## Bosque tropical
 ![imagen 2](./fotos/foto2.jpg)
 <br>Descripcion de la foto
 
-## Foto 3
+## Sabana
 ![imagen 3](./fotos/foto3.jpg)
 <br>Descripcion de la foto
 
-## Foto 4
+## Paisaje desértico
 ![imagen 4](./fotos/foto4.jpg)
 <br>Descripcion de la foto
 
-## Foto 5
+## Dunas
 ![imagen 5](./fotos/foto5.jpg)
 <br>Descripcion de la foto
 
-## Foto 6
+## paisaje otoñal
 ![imagen 6](./fotos/foto6.jpg)
 <br>Descripcion de la foto
 
-## Foto 7
+## Playa
 ![imagen 7](./fotos/foto7.jpg)
 <br>Descripcion de la foto
 
 ## Foto 8
-![imagen 8](./fotos/foto8.jpg)
+![imagen 8](./fotos/foto8.jpeg)
 <br>Descripcion de la foto
 
-## Foto 9
+## Lago
 ![imagen 9](./fotos/foto9.jpg)
 <br>Descripcion de la foto
 
-## Foto 10
+## Playa de ensueño
 ![imagen 10](./fotos/foto10.jpg)
 <br>Descripcion de la foto
