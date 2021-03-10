@@ -1,8 +1,8 @@
 # FOTOS DE XXX
 
-## Foto 1
+## montaña nevada
 Descripcion de la foto
-![titulo imagen](./fotos/delaimagen.jpg)
+![montaña nevada](./fotos/paisaje1.jpg)
 
 ## Foto 2
 Descripcion de la foto
