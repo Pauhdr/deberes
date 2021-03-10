@@ -2,8 +2,8 @@
 
 ## Video 1
 Descripcion del video
-<div><iframe src="https://www.youtube.com/embed/C0zoI3RJ_fw" frameborder="0" rel="0" allow="encrypted-media" allowfullscreen>
-</iframe></div>
+<iframe src="https://www.youtube.com/embed/C0zoI3RJ_fw" frameborder="0" rel="0" allow="encrypted-media" allowfullscreen>
+</iframe>
 
 
 
