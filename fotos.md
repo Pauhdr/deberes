@@ -1,5 +1,5 @@
 # FOTOS DE XXX
-|                                           | 
+| []()                                      | []()
 | ---                                       | ---
 | ## montaña nevada                         | ## Foto 2
 | ![montaña nevada](./fotos/paisaje1.jpg)   | ![titulo imagen](./fotos/delaimagen.jpg)
