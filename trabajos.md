@@ -4,15 +4,15 @@
 Diseño de <br>
 [ver trabajo >](../trabajos/trabajo1.pdf)
 
-## Trabajo 2
+## Práctica libreOffice writer
 Descripcion del trabajo<br>
-[ver trabajo >](../trabajos/trabajo2.pdf)
+[ver trabajo >](../trabajos/trabajo2.odt)
 
-## Practica excel 2
+## Práctica excel 2
 Descripcion del trabajo<br>
 [ver trabajo >](../trabajos/trabajo3.xlsx)
 
-## Practica excel 3
+## Práctica excel 3
 Descripcion del trabajo<br>
 [ver trabajo >](../trabajos/trabajo4.xlsx)
 
