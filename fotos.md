@@ -1,4 +1,4 @@
-# FOTOS DE XXX
+# FOTOS DE SARA CASTILLO
 ## Montaña nevada
 ![imagen 1](./fotos/foto1.jpg)
 <br>Los Alpes en invierno
