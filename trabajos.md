@@ -1,4 +1,4 @@
-# TRABAJOS DE XXX
+# TRABAJOS DE SARA CASTILLO
 
 ## Restaurante diseño
 Diseño del cartel de un restaurante <br>
