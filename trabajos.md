@@ -6,7 +6,7 @@ Diseño de <br>
 
 ## Práctica libreOffice writer
 Descripcion del trabajo<br>
-[ver trabajo >](../trabajos/trabajo2.odt)
+[ver trabajo >](./trabajos/trabajo2.odt)
 
 ## Práctica excel 2
 Descripcion del trabajo<br>
