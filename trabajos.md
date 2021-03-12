@@ -1,21 +1,21 @@
 # TRABAJOS DE XXX
 
 ## Restaurante diseño
-Diseño de <br>
+Diseño del cartel de un restaurante <br>
 [ver trabajo >](./trabajos/trabajo1.pdf)
 
 ## Práctica libreOffice writer
-Descripcion del trabajo<br>
+Documento para la instalación de sistemas operativos<br>
 [ver trabajo >](./trabajos/trabajo2.odt)
 
 ## Práctica excel 2
-Descripcion del trabajo<br>
+Simulación de un ticket de compra<br>
 [ver trabajo >](./trabajos/trabajo3.xlsx)
 
 ## Práctica excel 3
-Descripcion del trabajo<br>
+Plantilla para hacer una factura<br>
 [ver trabajo >](./trabajos/trabajo4.xlsx)
 
-## Comentario
-Descripcion del trabajo<br>
+## Comentario de FOL
+Actividades resueltas de la diapositiva 6<br>
 [ver trabajo >](./trabajos/trabajo5.docx)
