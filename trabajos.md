@@ -1,21 +1,21 @@
 # TRABAJOS DE XXX
 
-## Trabajo 1
-Descripcion del trabajo<br>
-[ver trabajo >](../trabajos/)
+## Restaurante diseño
+Diseño de <br>
+[ver trabajo >](../trabajos/trabajo1.pdf)
 
 ## Trabajo 2
 Descripcion del trabajo<br>
-[ver trabajo >](../trabajos/)
+[ver trabajo >](../trabajos/trabajo2.pdf)
 
-## Trabajo 3
+## Practica excel 2
 Descripcion del trabajo<br>
-[ver trabajo >](../trabajos/)
+[ver trabajo >](../trabajos/trabajo3.xlsx)
 
-## Trabajo 4
+## Practica excel 3
 Descripcion del trabajo<br>
-[ver trabajo >](../trabajos/)
+[ver trabajo >](../trabajos/trabajo4.xlsx)
 
-## Trabajo 5
+## Comentario
 Descripcion del trabajo<br>
-[ver trabajo >](../trabajos/)
+[ver trabajo >](../trabajos/trabajo5.docx)
